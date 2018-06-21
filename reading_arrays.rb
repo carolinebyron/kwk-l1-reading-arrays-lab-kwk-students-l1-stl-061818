@@ -1,15 +1,15 @@
-STUDENT_NAMES = [
-  "Adele",
-  "Beyoncé",
-  "Cardi B",
-  "Lady Gaga",
-  "Nicki Minaj",
-  "Rihanna"
-]
 
-def first_student_by_index
-  # Write a solution that returns the first student in the array student_names
-end
+
+
+  
+ student_one= "Adele"
+ student_two= "Beyoncé"
+ student_three= "Cardi B"
+ student_four= "Lady Gaga"
+ studnet_five="Nicki Minaj"
+ student_six= "Rihanna"
+  puts = "The first student is #{student_one}"
+
 
 def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names
